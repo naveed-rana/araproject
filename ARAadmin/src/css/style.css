@@ -1,0 +1,27 @@
+
+.bg_img {
+    background-color: aqua !important;
+    background-image: url(../img/sign-up.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg {
+    background-color: rgba(255,255,255,.7);
+}
+
+.back_img {
+     background-color: aqua !important;
+    background-image: url(../img/3f3de977308723fd8489909733949288.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#btn_login{
+  padding: 10px;
+  border: 2px solid black;
+  background-color: red;
+}
+
+
